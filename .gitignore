@@ -46,3 +46,9 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+/Assets/Live2D
+/Assets/Live2D.meta
+/Assets/csc.rsp
+/Assets/csc.rsp.meta
+/Assets/mcs.rsp
+/Assets/mcs.rsp.meta
