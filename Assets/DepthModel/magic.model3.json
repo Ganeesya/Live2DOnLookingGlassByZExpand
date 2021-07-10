@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "magic.moc3",
+		"Textures": [
+			"magic.4096/texture_00.png",
+			"magic.4096/texture_01.png",
+			"magic.4096/texture_02.png",
+			"magic.4096/texture_00_max.png",
+			"magic.4096/texture_00_min.png"
+		],
+		"Physics": "magic.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	]
+}
