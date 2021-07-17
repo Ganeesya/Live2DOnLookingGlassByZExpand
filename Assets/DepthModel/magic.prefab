@@ -167,6 +167,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 1
@@ -281,6 +283,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 70
@@ -440,6 +444,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 59
@@ -554,6 +560,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 0
@@ -668,6 +676,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 72
@@ -782,6 +792,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 64
@@ -941,6 +953,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 49
@@ -1055,6 +1069,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 58
@@ -1169,6 +1185,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 18
@@ -1283,6 +1301,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 9
@@ -1397,6 +1417,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 42
@@ -1511,6 +1533,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 88
@@ -1805,6 +1829,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 83
@@ -1919,6 +1945,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 3
@@ -2033,6 +2061,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 46
@@ -2205,6 +2235,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 56
@@ -2319,6 +2351,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 7
@@ -2478,6 +2512,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 668fd12c385bb484ea1d73c32c5c8375, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 92
@@ -2592,6 +2628,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 15
@@ -2706,6 +2744,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 35
@@ -2820,6 +2860,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 78
@@ -2934,6 +2976,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 5
@@ -3048,6 +3092,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 50
@@ -3287,6 +3333,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 23
@@ -3401,6 +3449,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 19
@@ -3560,6 +3610,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 61
@@ -3674,6 +3726,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 868248e35c41049498de739206ed150b, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 60
@@ -3788,6 +3842,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 39
@@ -4082,6 +4138,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 12
@@ -4421,6 +4479,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 17
@@ -4535,6 +4595,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 62
@@ -4694,6 +4756,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 4
@@ -4808,6 +4872,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 86
@@ -4922,6 +4988,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 90
@@ -5036,6 +5104,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 10
@@ -5150,6 +5220,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 34
@@ -5264,6 +5336,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 87
@@ -5378,6 +5452,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 63
@@ -5614,6 +5690,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 24
@@ -5728,6 +5806,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 37
@@ -5842,6 +5922,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 11
@@ -5956,6 +6038,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 21
@@ -6070,6 +6154,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 29
@@ -6229,6 +6315,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 41
@@ -6343,6 +6431,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 47
@@ -6547,6 +6637,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 6
@@ -6745,6 +6837,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 22
@@ -6859,6 +6953,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 45
@@ -7018,6 +7114,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 76
@@ -7132,6 +7230,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 66
@@ -7336,6 +7436,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 40
@@ -7495,6 +7597,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 80
@@ -7609,6 +7713,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 91
@@ -7723,6 +7829,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 20
@@ -7882,6 +7990,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 71
@@ -7996,6 +8106,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 52
@@ -8110,6 +8222,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 57
@@ -8224,6 +8338,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 33
@@ -8338,6 +8454,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 67
@@ -8452,6 +8570,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 36
@@ -8566,6 +8686,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 27
@@ -8680,6 +8802,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 77
@@ -8794,6 +8918,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 74
@@ -8998,6 +9124,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 25
@@ -9215,6 +9343,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 8
@@ -9329,6 +9459,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 26
@@ -9443,6 +9575,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 31
@@ -9557,6 +9691,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 55
@@ -9941,6 +10077,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 75
@@ -10100,6 +10238,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 82
@@ -10214,6 +10354,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 89
@@ -10373,6 +10515,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 2
@@ -10667,6 +10811,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 13
@@ -10826,6 +10972,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 65
@@ -10940,6 +11088,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 28
@@ -11054,6 +11204,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 68
@@ -11258,6 +11410,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 84
@@ -11417,6 +11571,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 668fd12c385bb484ea1d73c32c5c8375, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 94
@@ -11531,6 +11687,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 48
@@ -11645,6 +11803,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 30
@@ -11804,6 +11964,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 69
@@ -12008,6 +12170,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 44
@@ -12122,6 +12286,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 32
@@ -12236,6 +12402,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 85
@@ -12395,6 +12563,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 73
@@ -12509,6 +12679,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 38
@@ -12623,6 +12795,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 51
@@ -12827,6 +13001,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 668fd12c385bb484ea1d73c32c5c8375, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 93
@@ -12941,6 +13117,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 54
@@ -13055,6 +13233,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 14
@@ -13169,6 +13349,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 81
@@ -13283,6 +13465,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 16
@@ -13397,6 +13581,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 79
@@ -13511,6 +13697,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 43
@@ -13625,6 +13813,8 @@ MonoBehaviour:
   _localSortingOrder: 0
   _color: {r: 1, g: 1, b: 1, a: 1}
   _mainTexture: {fileID: 2800000, guid: 25a1f7fb63fb4254188a6c67f57869ba, type: 3}
+  _minXBufferTexture: {fileID: 2800000, guid: 617d2cb3513d26545b8cd20693fef994, type: 3}
+  _maxZBufferTexture: {fileID: 2800000, guid: 2aad0d6bc632e214e964967adae569c6, type: 3}
   _sortingMode: 0
   _sortingOrder: 0
   _renderOrder: 53
