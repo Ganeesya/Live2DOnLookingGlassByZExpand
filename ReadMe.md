@@ -2,6 +2,8 @@
 
 This is a sample of using shaders to inflate Live2D in the Z direction to make it look 3D on LookingGlass.
 
+[![](https://img.youtube.com/vi/s-akyyzeg_4/0.jpg)](https://www.youtube.com/watch?v=s-akyyzeg_4)
+
 # Requirement
 
 [Looking Glass device](https://lookingglassfactory.com/product/overview)

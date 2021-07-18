@@ -2,6 +2,8 @@
 
 シェーダーを使ってLive2DをZ方向に膨らませてLookingGlass上で立体に見せかけるサンプルです。
 
+[![](https://img.youtube.com/vi/s-akyyzeg_4/0.jpg)](https://www.youtube.com/watch?v=s-akyyzeg_4)
+
 # 環境
 
 [Looking Glass device](https://lookingglassfactory.com/product/overview)
